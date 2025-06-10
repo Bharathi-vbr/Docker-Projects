@@ -6,7 +6,7 @@ This project is a simple terminal-based calculator written in Go, built using a 
 ---
 
 ## 📂 Project Structure
-
+---
 ├── calculator.go # Main Go application (calculator)
 ├── go.mod # Go module definition
 ├── Dockerfile # Multi-stage Dockerfile using 'scratch'
