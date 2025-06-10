@@ -63,7 +63,7 @@ Contains only the final binary
 
 No shell, no package manager — zero bloat
 
-✅ Benefits of scratch
+### ✅ Benefits of scratch
 Extremely small image size
 
 Minimal attack surface
