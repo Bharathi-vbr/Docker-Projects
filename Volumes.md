@@ -36,6 +36,7 @@ docker run -it -v <volume_name>:/data <image_name> /bin/bash
 ```
 This mounts the volume <volume_name> to the /data directory inside the container. Any files written to /data will persist even if the container is deleted.
 
+![image](https://github.com/user-attachments/assets/b99a37e4-0c8b-4915-b950-570649d24f99)
 
 
 ### 📂 Bind Mounts (Host Directory as Mount)
